@@ -1,0 +1,12 @@
+{
+  "best_model": "Random Forest",
+  "decision_threshold": 0.49974780120802065,
+  "target": "y (yes=1, no=0)",
+  "excluded_feature": "duration (post-call information leakage)",
+  "best_logistic_grid_params": {
+    "classifier__C": 0.1
+  },
+  "threshold_selected_on": "validation split",
+  "model_selection_basis": "validation F1",
+  "final_model_refit_on": "training + validation"
+}

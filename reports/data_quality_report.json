@@ -1,0 +1,22 @@
+{
+  "rows": 41188,
+  "columns": 21,
+  "missing_cells": 0,
+  "duplicate_rows": 12,
+  "target_counts": {
+    "no": 36548,
+    "yes": 4640
+  },
+  "target_percent": {
+    "no": 88.73,
+    "yes": 11.27
+  },
+  "unknown_counts": {
+    "job": 330,
+    "marital": 80,
+    "education": 1731,
+    "default": 8597,
+    "housing": 990,
+    "loan": 990
+  }
+}
